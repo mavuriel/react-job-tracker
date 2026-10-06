@@ -1,0 +1,16 @@
+{
+  "experimentalTernaries": true,
+  "experimentalOperatorPosition": "end",
+  "tabWidth": 2,
+  "semi": false,
+  "singleQuote": true,
+  "quoteProps": "as-needed",
+  "jsxSingleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "objectWrap": "preserve",
+  "bracketSameLine": false,
+  "arrowParens": "always",
+  "endOfLine": "lf",
+  "singleAttributePerLine": true
+}
