@@ -1,9 +1,10 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
+import { JobTrackerApp } from './JobTrackerApp'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <h1>Tracker</h1>
+    <JobTrackerApp />
   </StrictMode>,
 )
